@@ -16,7 +16,7 @@ A shopping website using an API were you can select items and add to cart, built
 
 # Install Dependencies
 - Make sure you have Node.js installed. Then run:
-  **npm install**
+- **npm install**
 - Run the Development Server
   **npm run dev**
   
