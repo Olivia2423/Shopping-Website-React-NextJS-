@@ -18,7 +18,7 @@ A shopping website using an API were you can select items and add to cart, built
 - Make sure you have Node.js installed. Then run:
 - **npm install**
 - Run the Development Server
-  **npm run dev**
+- **npm run dev**
   
 **Open http://localhost:3000 in your browser to see the application.**
 
